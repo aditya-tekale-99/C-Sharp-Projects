@@ -7,7 +7,7 @@ namespace MadLibs
     static void Main(string[] args)
     {
       /*
-      This program will help you write a poem
+      This program will help you write a story
       Author: Aditya Tekale
       */
 
@@ -56,7 +56,7 @@ namespace MadLibs
 
 
       // The template for the story:
-      Console.WriteLine("This is your Poem:\n");
+      Console.WriteLine("This is your Story:\n");
 
       string story = $"This morning {name} woke up feeling {feeling}. 'It is going to be a {texture} day!' Outside, a bunch of {animal}s were protesting to keep {food} in stores. They began to {action} to the rhythm of the {place}, which made all the {fruit}s very {texture}. Concerned, {name} texted {superhero}, who flew {name} to {country} and dropped {name} in a puddle of frozen {dessert}. {name} woke up in the year {year}, in a world where {feeling}s ruled the world.";
 
