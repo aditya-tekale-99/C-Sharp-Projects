@@ -10,7 +10,7 @@ namespace PasswordChecker
       string uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
       string lowercase = "abcdefghijklmnopqrstuvwxyz";
       string digits = "0123456789";
-      string specialChars = "#?!,-'/`_*$";
+      string specialChars = "!@#$%^&*()-_+=\\/':,{}[]~.";
       Console.WriteLine("Enter password: ");
       string password = Console.ReadLine();
       int score = 0;
