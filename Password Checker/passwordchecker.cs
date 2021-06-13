@@ -14,7 +14,7 @@ namespace PasswordChecker
       Console.WriteLine("Enter password: ");
       string password = Console.ReadLine();
       int score = 0;
-      if ((score) >= (minLength))
+      if ((password.Length) >= (minLength))
       {
         score++;
       }
