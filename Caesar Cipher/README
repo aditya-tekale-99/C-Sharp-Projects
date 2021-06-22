@@ -1,1 +1,3 @@
 Using C#, wrote an algotihm to encrpt and decrypt a message
+
+Every letter of the message will shift three places to the right. For example, A becomes D, B becomes E, C becomes F, and “hello” becomes “khoor”.
