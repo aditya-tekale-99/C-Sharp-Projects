@@ -1,0 +1,7 @@
+Match making application algorithm to build a profile
+
+Using Objects and Classes in C#, wrote an algorithm to display the user's data
+
+User's data needed for this program is: name, age, city, country, pronouns, and hobbies.
+
+The main algorithm to store the information is in the Profile.cs file and the Program.cs is a file where we can add new users info.
