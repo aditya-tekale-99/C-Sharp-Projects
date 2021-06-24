@@ -3,7 +3,6 @@ Do you know when C# was invented? How about your other favorite programming lang
 In this project I’ll be using lists and LINQ to search a database for answers!
 
 The data is stored in a .tsv file, which stands for tab-separated values. 
-It’s a common way to export data from a spreadsheet or database — you might see this file type when you try to download data from apps like Microsoft Excel and Google Sheets.
 
 In Program.cs, the data importing is taken care of! The data is stored in languages which is a list of type List<Language>. 
 You can find the definition for the Language class in Language.cs.
