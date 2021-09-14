@@ -24,9 +24,9 @@ The end result is a really hilarious and strange story based on what the users c
 ## [Money Maker](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/Money%20Maker)
 An algorithm that converts a certain user given amount equivalent to coins.  
 There are three types of coins:  
-  A bronze coin is worth 1 cent  
-  A silver coin is worth 5 cents  
-  A gold coin is worth 10 cents  
+    -A bronze coin is worth 1 cent  
+    -A silver coin is worth 5 cents  
+    -A gold coin is worth 10 cents  
 Example: 9087 coins returns:   
 908 Gold coins  
 1 Silver coin  
