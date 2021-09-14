@@ -1,7 +1,6 @@
 # C-Sharp-Projects
-Projects done in C# from Codecademy for a better understanding of the syntax   
-
-Use "dotnet run" in terminal to execute the programs. 
+Projects done in C# from Codecademy for a better understanding
+(Use "dotnet run" in terminal to execute the programs in appropriate location where the project file is.) 
 
 ## [Ceaser Cipher](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/Caesar%20Cipher)
 An algotihm to encrpt and decrypt a message.  
