@@ -31,3 +31,19 @@ Example: 9087 coins returns:
 908 Gold coins  
 1 Silver coin  
 2 Bronze coins  
+
+## [Adventure](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/Own%20Adventure)
+A adventure game,  Depending on what choices user makes, the program will have a different result.
+
+## [Password Checker](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/Password%20Checker)
+An algorithm that checks the strength of the password.
+
+## [Programming Languages](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/Programming%20Languages)
+In this project I used lists and LINQ to search a database for information on programming languages!
+
+## [The Object of Your Affection](https://github.com/aditya-tekale-99/C-Sharp-Projects/tree/main/The%20Object%20of%20Your%20Affection)
+This project is based on creating a profile and storing the data in a databse for a match making application.
+
+
+
+### This projects have helped me in understanding C# better and how the prpogramming language can be implemented using it's various OOP concepts in multiple aspects of IT.
